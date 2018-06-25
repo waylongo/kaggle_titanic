@@ -19,3 +19,13 @@ Roadmap:
 5.    参数调整（Hyperparameters Tuning）
 
 6.    集成方法（EnsembleMethods）
+
+-----
+常见算法：
+  K近邻（k-Nearest Neighbors）
+  逻辑回归（Logistic Regression）
+  朴素贝叶斯分类器（Naive Bayes classifier）
+  决策树（Decision Tree）
+  随机森林（Random Forest）
+  梯度提升树（Gradient Boosting Decision Tree）
+  支持向量机（Support Vector Machine）
