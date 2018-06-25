@@ -22,16 +22,18 @@ Roadmap:
 
 -----
 常见模型算法：
-  K近邻（k-Nearest Neighbors）
+
+  1. K近邻（k-Nearest Neighbors）
   
-  逻辑回归（Logistic Regression）
+  2. 逻辑回归（Logistic Regression）
   
-  朴素贝叶斯分类器（Naive Bayes classifier）
-  决策树（Decision Tree）
+  3. 朴素贝叶斯分类器（Naive Bayes classifier）
   
-  随机森林（Random Forest）
+  4. 决策树（Decision Tree）
   
-  梯度提升树（Gradient Boosting Decision Tree）
+  5. 随机森林（Random Forest）
   
-  支持向量机（Support Vector Machine）
+  6. 梯度提升树（Gradient Boosting Decision Tree）
+  
+  7. 支持向量机（Support Vector Machine）
   
